@@ -92,6 +92,44 @@
 # print("The Factorial is:", fact)
 
 
+import random 
+import string
+
+
+print(random(ascii))
+
+print(string)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
